@@ -1,0 +1,51 @@
+SubcategoryID,CategoryID,SubcategoryName,Description
+1,1,Kitchen Utensils,Sustainable and eco-friendly kitchen utensils products
+2,1,Budget Kitchen Utensils,budget sustainable kitchen utensils products
+3,1,Bathroom,Sustainable and eco-friendly bathroom products
+4,1,Local Bathroom,local sustainable bathroom products
+5,1,Cleaning,Sustainable and eco-friendly cleaning products
+6,1,Premium Cleaning,premium sustainable cleaning products
+7,1,Bedding,Sustainable and eco-friendly bedding products
+8,1,Handmade Bedding,handmade sustainable bedding products
+9,1,Living Room,Sustainable and eco-friendly living room products
+10,1,Recycled Living Room,recycled sustainable living room products
+11,2,Skincare,Sustainable and eco-friendly skincare products
+12,2,Budget Skincare,budget sustainable skincare products
+13,2,Haircare,Sustainable and eco-friendly haircare products
+14,2,Local Haircare,local sustainable haircare products
+15,2,Oral Care,Sustainable and eco-friendly oral care products
+16,2,Premium Oral Care,premium sustainable oral care products
+17,2,Makeup,Sustainable and eco-friendly makeup products
+18,2,Handmade Makeup,handmade sustainable makeup products
+19,2,Body Care,Sustainable and eco-friendly body care products
+20,2,Recycled Body Care,recycled sustainable body care products
+21,3,Clothing,Sustainable and eco-friendly clothing products
+22,3,Budget Clothing,budget sustainable clothing products
+23,3,Footwear,Sustainable and eco-friendly footwear products
+24,3,Local Footwear,local sustainable footwear products
+25,3,Accessories,Sustainable and eco-friendly accessories products
+26,3,Premium Accessories,premium sustainable accessories products
+27,3,Activewear,Sustainable and eco-friendly activewear products
+28,3,Handmade Activewear,handmade sustainable activewear products
+29,3,Jewelry,Sustainable and eco-friendly jewelry products
+30,3,Recycled Jewelry,recycled sustainable jewelry products
+31,4,Organic Foods,Sustainable and eco-friendly organic foods products
+32,4,Budget Organic Foods,budget sustainable organic foods products
+33,4,Beverages,Sustainable and eco-friendly beverages products
+34,4,Local Beverages,local sustainable beverages products
+35,4,Snacks,Sustainable and eco-friendly snacks products
+36,4,Premium Snacks,premium sustainable snacks products
+37,4,Meal Kits,Sustainable and eco-friendly meal kits products
+38,4,Handmade Meal Kits,handmade sustainable meal kits products
+39,4,Supplements,Sustainable and eco-friendly supplements products
+40,4,Recycled Supplements,recycled sustainable supplements products
+41,5,Solar Products,Sustainable and eco-friendly solar products products
+42,5,Budget Solar Products,budget sustainable solar products products
+43,5,Energy Efficiency,Sustainable and eco-friendly energy efficiency products
+44,5,Local Energy Efficiency,local sustainable energy efficiency products
+45,5,Gadgets,Sustainable and eco-friendly gadgets products
+46,5,Premium Gadgets,premium sustainable gadgets products
+47,5,Water Conservation,Sustainable and eco-friendly water conservation products
+48,5,Handmade Water Conservation,handmade sustainable water conservation products
+49,5,Home Office,Sustainable and eco-friendly home office products
+50,5,Recycled Home Office,recycled sustainable home office products

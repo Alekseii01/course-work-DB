@@ -1,0 +1,10 @@
+COPY dim_date TO '/Users/zidvi33/Downloads/course_work_DB/export/dim_date.csv' CSV HEADER;
+COPY dim_category TO '/Users/zidvi33/Downloads/course_work_DB/export/dim_category.csv' CSV HEADER;
+COPY dim_subcategory TO '/Users/zidvi33/Downloads/course_work_DB/export/dim_subcategory.csv' CSV HEADER;
+COPY dim_manufacturer TO '/Users/zidvi33/Downloads/course_work_DB/export/dim_manufacturer.csv' CSV HEADER;
+COPY dim_product TO '/Users/zidvi33/Downloads/course_work_DB/export/dim_product.csv' CSV HEADER;
+COPY dim_customer TO '/Users/zidvi33/Downloads/course_work_DB/export/dim_customer.csv' CSV HEADER;
+COPY dim_ecocertification TO '/Users/zidvi33/Downloads/course_work_DB/export/dim_ecocertification.csv' CSV HEADER;
+COPY bridge_product_certification TO '/Users/zidvi33/Downloads/course_work_DB/export/bridge_product_certification.csv' CSV HEADER;
+COPY fact_sale TO '/Users/zidvi33/Downloads/course_work_DB/export/fact_sale.csv' CSV HEADER;
+COPY fact_review TO '/Users/zidvi33/Downloads/course_work_DB/export/fact_review.csv' CSV HEADER;

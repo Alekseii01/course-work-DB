@@ -1,0 +1,21 @@
+CertificationID,CertificationName,Description,Logo
+1,B Corp Certified,"Certified to meet rigorous standards of social and environmental performance, accountability, and transparency",b_corp_certified_logo.png
+2,Energy Star,Products that meet strict energy efficiency guidelines set by the U.S. Environmental Protection Agency,energy_star_logo.png
+3,USDA Organic,Products with ingredients grown and processed according to federal guidelines,usda_organic_logo.png
+4,Fair Trade Certified,"Products made according to rigorous social, environmental, and economic standards",fair_trade_certified_logo.png
+5,FSC Certified,Forest Stewardship Council certification for responsibly managed forests,fsc_certified_logo.png
+6,GOTS Certified,Global Organic Textile Standard for organic textiles,gots_certified_logo.png
+7,Cradle to Cradle,Products designed with safe materials that can be continuously recycled,cradle_to_cradle_logo.png
+8,Leaping Bunny,"Products certified cruelty-free, with no animal testing",leaping_bunny_logo.png
+9,Green Seal,Products meeting stringent environmental leadership standards,green_seal_logo.png
+10,EWG Verified,Products that meet Environmental Working Group's strictest criteria for transparency and health,ewg_verified_logo.png
+11,LEED Certified,Leadership in Energy and Environmental Design certification for buildings,leed_certified_logo.png
+12,Carbon Trust Standard,"Certification for organizations that are measuring, managing, and reducing their carbon footprint",carbon_trust_standard_logo.png
+13,EU Ecolabel,The official European Union label for environmental excellence,eu_ecolabel_logo.png
+14,Nordic Swan,Official ecolabel of the Nordic countries for environmentally-friendly products,nordic_swan_logo.png
+15,Rainforest Alliance,"Products that meet standards for protecting wildlife, soils, waterways, and the well-being of workers",rainforest_alliance_logo.png
+16,Blue Angel,German certification for environmentally-friendly products and services,blue_angel_logo.png
+17,OEKO-TEX,Certification system for textile products tested for harmful substances,oeko-tex_logo.png
+18,TCO Certified,Global sustainability certification for IT products,tco_certified_logo.png
+19,Water Sense,EPA program that certifies water-efficient products,water_sense_logo.png
+20,Zero Waste,Certification for businesses that divert at least 90% of waste from landfills,zero_waste_logo.png
